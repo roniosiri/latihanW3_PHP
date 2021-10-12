@@ -50,7 +50,7 @@ $cars = array (
     echo $_SERVER['SCRIPT_NAME'];
     echo "<p>======================== </p>";
 ?>
-
+//PHP form
     <html>
     <body>
     <form action="W3_PHP_form.php" method="get">
